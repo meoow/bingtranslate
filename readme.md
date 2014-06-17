@@ -2,7 +2,7 @@
 
 example code:
 
-```
+```go
 package main
 
 import "github.com/meoow/bingtranslate"
